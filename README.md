@@ -1,3 +1,3 @@
 # hello-world
 Try to colaborate with my VS2019.
-OSHTE !!!!!!
+Try to colaborate with my VS2019.
